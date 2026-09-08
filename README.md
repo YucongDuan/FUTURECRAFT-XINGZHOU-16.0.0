@@ -1,5 +1,7 @@
 # DIKWP FUTURECRAFT / XINGZHOU 16.0.0
 
+Created by Yucong Duan (段玉聪).
+
 > Do not predict one stable job. Build stability that remains portable across futures.
 
 `XINGZHOU16_REAL_PROBLEM_LEARNING_CONTINUITY_ASSET_PORTFOLIO_MULTI_WORLD_EVIDENCE_PIVOT_CLOSURE`
